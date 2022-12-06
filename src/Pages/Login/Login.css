@@ -1,0 +1,20 @@
+.loginStyle {
+    background-color: rgb(240, 209, 170);
+    border-radius: 10px;
+    padding: 100px 30px;
+    width: 30%
+}
+
+@media only screen and (max-width: 1075px) {
+    .loginStyle {
+        width: 50%;
+    }
+
+}
+
+@media only screen and (max-width: 584px) {
+    .loginStyle {
+        width: 80%;
+    }
+
+}

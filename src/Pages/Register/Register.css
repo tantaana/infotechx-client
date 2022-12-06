@@ -1,0 +1,20 @@
+.registerStyle {
+    background-color: rgb(228, 153, 153);
+    border-radius: 10px;
+    padding: 100px 30px;
+    width: 30%
+}
+
+@media only screen and (max-width: 1075px) {
+    .registerStyle {
+        width: 50%;
+    }
+
+}
+
+@media only screen and (max-width: 584px) {
+    .registerStyle {
+        width: 80%;
+    }
+
+}

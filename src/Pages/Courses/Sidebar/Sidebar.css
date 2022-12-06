@@ -1,0 +1,8 @@
+.sideDesign {
+    background-color: rgb(235, 224, 177);
+    border-radius: 10px;
+}
+
+.allname:hover {
+    color: rgb(60, 161, 228);
+}
